@@ -1,0 +1,24 @@
+C:\Users\Paulix_Machima\Desktop\Timer\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\Paulix_Machima\Desktop\Timer\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\Paulix_Machima\Desktop\Timer\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\Paulix_Machima\Desktop\Timer\Timer\Timer\obj\Debug\Timer.csprojAssemblyReference.cache
+C:\Users\Paulix_Machima\Desktop\Timer\Timer\Timer\obj\Debug\Timer.Menu.resources
+C:\Users\Paulix_Machima\Desktop\Timer\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\Paulix_Machima\Desktop\Timer\Timer\Timer\obj\Debug\Timer.Timer.resources
+C:\Users\Paulix_Machima\Desktop\Timer\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+C:\Users\Paulix_Machima\Desktop\Timer\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\Paulix_Machima\Desktop\Timer\Timer\Timer\obj\Debug\Timer.pdb
+C:\Users\Paulix_Machima\Desktop\Timer 1024x768\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\Paulix_Machima\Desktop\Timer 1024x768\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\Paulix_Machima\Desktop\Timer 1024x768\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\Paulix_Machima\Desktop\Timer 1024x768\Timer\Timer\obj\Debug\Timer.csprojAssemblyReference.cache
+C:\Users\Paulix_Machima\Desktop\Timer 1024x768\Timer\Timer\obj\Debug\Timer.Menu.resources
+C:\Users\Paulix_Machima\Desktop\Timer 1024x768\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\Paulix_Machima\Desktop\Timer 1024x768\Timer\Timer\obj\Debug\Timer.Timer.resources
+C:\Users\Paulix_Machima\Desktop\Timer 1024x768\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+C:\Users\Paulix_Machima\Desktop\Timer 1024x768\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\Paulix_Machima\Desktop\Timer 1024x768\Timer\Timer\obj\Debug\Timer.pdb
+C:\Users\Paulix_Machima\Desktop\Timer 1024x768\Timer\Timer\bin\Debug\Timer.exe.manifest
+C:\Users\Paulix_Machima\Desktop\Timer 1024x768\Timer\Timer\bin\Debug\Timer.application
+C:\Users\Paulix_Machima\Desktop\Timer 1024x768\Timer\Timer\obj\Debug\Timer.exe.manifest
+C:\Users\Paulix_Machima\Desktop\Timer 1024x768\Timer\Timer\obj\Debug\Timer.application
