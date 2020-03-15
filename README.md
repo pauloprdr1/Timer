@@ -1,3 +1,3 @@
-Its a timer whith a hour display included.
+It's a timer with an hour display included.
 
-Its not perfect, but its perfect for what it was meant to be used on.
+It's not perfect, but it's perfect for what it is meant to be used on.
